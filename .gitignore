@@ -1,0 +1,33 @@
+# Arquivos de cache e configuracao pessoal do Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+*.vc.db
+
+# Pastas de Build (Onde ficam os compilados)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]bj/
+[Bb]in/
+out/
+build/
+
+# Binarios e arquivos de linkagem (O C++ gera isso a cada build)
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+*.idb
+*.iobj
+*.ipdb
+
+# Arquivos de log e cache
+*.log
+*.tlog
