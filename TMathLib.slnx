@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TMathLib.vcxproj" />
+  <Project Path="TMathLib.vcxproj" Id="271620f0-ce2e-4870-be37-2db0174b28f8" />
 </Solution>
